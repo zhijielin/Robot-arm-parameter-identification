@@ -1,0 +1,15 @@
+
+
+
+
+Modeling of robot arm:
+1: inter matrix: 
+2: centrifuge and corilois parameters
+3: gravity matrix
+
+*********These matrix are relative to poistion and velocity of joints!!!!
+
+The parameter matrix can refer to the files the supervisor gives. however,
+I am not sure, they are correct!!!!!!
+
+
